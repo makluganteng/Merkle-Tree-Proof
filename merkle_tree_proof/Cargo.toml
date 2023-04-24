@@ -8,3 +8,5 @@ edition = "2021"
 [dependencies]
 ethers-rs = "0.2.3"
 hex = "0.4.3"
+serde = "1.0.160"
+serde_json = "1.0.96"

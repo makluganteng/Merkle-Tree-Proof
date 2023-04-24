@@ -1,6 +1,5 @@
 use ethers_rs::keccak256;
 
-type Data = str;
 type Hash = [u8; 32];
 
 pub struct MerkleTree {
